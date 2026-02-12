@@ -9,14 +9,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # --- ESTA ES LA PARTE QUE TE FALTABA ---
+    permissions: 
+      contents: write
+    # ---------------------------------------
+
     steps:
       - uses: actions/checkout@v2
       
       - uses: Platane/snk@v3
         with:
-          # nombre de usuario de github
           github_user_name: Abrahamx9-R
-          # estos son los archivos de salida
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
