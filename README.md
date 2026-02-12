@@ -59,16 +59,14 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 ### 🏆 Logros y Actividad
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abrahamx9-R&theme=gitdimmed&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github.com/Abrahamx9-R/Abrahamx9-R/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrahamx9-R&theme=dark&hide_border=true&background=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamx9-R&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" />
 </div>
-
 ---
 
 ### 🐍 Mi Actividad en Código
