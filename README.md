@@ -32,7 +32,7 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 ### 🔭 Experiencia Destacada
 
 
-- ** Andraks Founder **.
+- **Andraks Founder** .
 - **🏢 Smeisa (Head of IT & PM):** Lidero la estrategia digital y el desarrollo de software.
   - *Hitos:* Creé el ecosistema de **monitoreo industrial y App de reportes** (Flutter + NestJS + IoT). Implementé infraestructura propia con Docker/Linux para reducir dependencia de SaaS externos.
 - **🔬 Instituto de Física, UNAM (Sysadmin & Cómputo Científico):**
