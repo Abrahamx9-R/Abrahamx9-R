@@ -57,13 +57,13 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 ---
 
 ### 🏆 Logros y Actividad
-
+<!--
 <div align="center">
   <img src="https://github.com/Abrahamx9-R/Abrahamx9-R/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="50%">
 </div>
 
 <br/>
-
+-->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrahamx9-R&theme=dark&hide_border=true&background=0D1117" height="150" />
 </div>
