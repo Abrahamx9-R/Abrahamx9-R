@@ -44,13 +44,13 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=rust,python,cpp,julia,dart" />
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,julia,dart,java,tupescript,javascript,html" />
   <br/><br/>
   
   <img src="https://skillicons.dev/icons?i=flutter,nestjs,react,astro,docker,aws,linux,nginx" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb,JAX" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb,postman," />
 
 </div>
 
