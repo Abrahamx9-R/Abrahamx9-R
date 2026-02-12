@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Abraham+Galindo+Ruiz;Físico+Computacional;Head+of+IT+%26+Project+Manager;Desarrollador+Full+Stack+%2B+IoT;Fanático+de+Rust+y+Python" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" />
+</div>
 # Hola, soy Abraham Galindo Ruiz 👋
 
 <!--
