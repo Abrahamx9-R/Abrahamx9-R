@@ -31,13 +31,13 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 
 ### 🔭 Experiencia Destacada
 
-
-
+- **🚀 Andraks:** Fundador y desarrollador de soluciones tecnológicas y patentes de optimización.
 - **🏢 Smeisa (Head of IT & PM):** Lidero la estrategia digital y el desarrollo de software.
   - *Hitos:* Creé el ecosistema de **monitoreo industrial y App de reportes** (Flutter + NestJS + IoT). Implementé infraestructura propia con Docker/Linux para reducir dependencia de SaaS externos.
 - **🔬 Instituto de Física, UNAM (Sysadmin & Cómputo Científico):**
   - *Hitos:* Administración de clústeres **HPC Linux**, pipelines de datos masivos y simulaciones físicas (Dinámica de fluidos/Estrés mecánico) con Python y Julia.
-- **🚀 Andraks:** Fundador y desarrollador de soluciones tecnológicas y patentes de optimización.
+- **🛠️ Proteco / Cosas de Ingeniería (Instructor & Developer):**
+  - *Hitos:* Formé a nuevas generaciones impartiendo cursos de **C++, Python y Microcontroladores**. Diseñé y programé prototipos mecatrónicos innovadores para clientes externos y patentes.
 
 ---
 
