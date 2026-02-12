@@ -44,13 +44,13 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=rust,python,cpp,julia,dart,java,tupescript,javascript,html" />
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,julia,dart,java,typescript,javascript,html,css,r" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=flutter,nestjs,react,astro,docker,aws,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=flutter,nestjs,react,astro,docker,aws,linux,nginx,arch,azure,bash,cloudflare,django,gcp,redhat" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb,postman," />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb,postman,blender,matlab,nextjs" />
 
 </div>
 
@@ -59,7 +59,7 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 ### 🏆 Logros y Actividad
 
 <div align="center">
-  <img src="https://github.com/Abrahamx9-R/Abrahamx9-R/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/Abrahamx9-R/Abrahamx9-R/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
 </div>
 
 <br/>
@@ -67,6 +67,7 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrahamx9-R&theme=dark&hide_border=true&background=0D1117" height="150" />
 </div>
+
 ---
 
 ### 🐍 Mi Actividad en Código
