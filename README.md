@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="object-fit:cover; border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="object-fit:cover; border-radius: 10px;" />
 </div>
 # Hola, soy Abraham Galindo Ruiz 👋
 
