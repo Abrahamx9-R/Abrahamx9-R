@@ -50,7 +50,7 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
   <img src="https://skillicons.dev/icons?i=flutter,nestjs,react,astro,docker,aws,linux,nginx" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb,JAX" />
 
 </div>
 
