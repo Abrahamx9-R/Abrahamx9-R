@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Abraham+Galindo+Ruiz;Físico+Computacional;Head+of+IT+%26+Project+Manager;Desarrollador+Full+Stack+%2B+IoT;Fanático+de+Rust+y+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Abraham+Galindo+Ruiz;Físico+Computacional;Head+of+IT+%26+Project+Manager;Desarrollador+Full+Stack+%2B+IoT;Fanático+de+Innovar" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -85,6 +85,47 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 </div>
 
 ---
+
+### 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,julia,dart" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=flutter,nestjs,react,astro,docker,aws,linux,nginx" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb" />
+
+</div>
+
+---
+
+### 🏆 Logros y Actividad
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abrahamx9-R&theme=gitdimmed&no-frame=true&margin-w=15&row=1" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrahamx9-R&theme=dark&hide_border=true&background=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamx9-R&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" />
+</div>
+
+---
+
+### 🐍 Mi Actividad en Código
+
+<div align="center">
+  <img src="https://github.com/Abrahamx9-R/Abrahamx9-R/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <sub><i>"La física es el sistema operativo del universo; yo solo escribo los drivers."</i></sub>
+</div>
 
 ### 📫 Contacto
 
