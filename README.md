@@ -73,7 +73,7 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrahamx9-R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrahamx9-R&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrahamx9-R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="languages" />
 </div>
 
