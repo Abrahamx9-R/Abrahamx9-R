@@ -31,7 +31,7 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 ### 🔭 Experiencia Destacada
 
 
-- ** Andraks Founder.
+- ** Andraks Founder**.
 - **🏢 Smeisa (Head of IT & PM):** Lidero la estrategia digital y el desarrollo de software.
   - *Hitos:* Creé el ecosistema de **monitoreo industrial y App de reportes** (Flutter + NestJS + IoT). Implementé infraestructura propia con Docker/Linux para reducir dependencia de SaaS externos.
 - **🔬 Instituto de Física, UNAM (Sysadmin & Cómputo Científico):**
@@ -44,13 +44,13 @@ Soy un profesional híbrido que combina la **ciencia** y la **tecnología**. Com
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=rust,python,cpp,julia,dart,java,typescript,javascript,html,css,r" />
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,julia,dart,java,typescript,javascript,html,css,r,matlab" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=flutter,nestjs,react,astro,docker,aws,linux,nginx,arch,azure,bash,cloudflare,django,gcp,redhat" />
+  <img src="https://skillicons.dev/icons?i=flutter,nestjs,react,astro,docker,aws,linux,nginx,arch,azure,bash,cloudflare,django,gcp,redhat,nextjs" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb,postman,blender,matlab,nextjs" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch,postgres,mongodb,postman,blender" />
 
 </div>
 
